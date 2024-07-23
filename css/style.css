@@ -1,0 +1,49 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/buttons.css");
+@import url("components/cards.css");
+@import url("components/card.css");
+
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: 'Gill Sans', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Gill Sans', sans-serif;
+  font-weight: lighter;
+  color: rgb(72, 200, 255);
+}
+
+h1 {
+  font-size: 50px;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.8);
+}
+
+p {
+  font-family: 'Gill Sans', sans-serif;
+  font-weight: lighter;
+  font-size: 17px;
+  color: rgb(72, 200, 255, 0.8);
+}
+
+a {
+  text-decoration: none;
+}
+
+div{
+  display: block;
+}
+
+/* Custom design below! */
+.text-center {
+  text-align: center;
+}

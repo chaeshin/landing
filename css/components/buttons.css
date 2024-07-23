@@ -1,0 +1,14 @@
+.btn-blue {
+  background-color: rgb(77, 201, 255, 0.8);
+  color: rgb(255, 255, 255);
+  padding: 8px 50px;
+  font-weight: lighter;
+  font-family: 'Gill Sans', sans-serif;
+  transition: background 0.5s ease;
+}
+
+.btn-blue:hover {
+  background-color: rgb(240, 250, 255, 0.8);
+  border: 1px solid rgb(77, 201, 255, 0.8);
+  color:rgb(77, 201, 255);
+}

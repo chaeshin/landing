@@ -1,0 +1,12 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px;
+  height: 500 px;
+}
+
+.banner p {
+  font-size: 25px;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.8);
+  color: white;
+}
